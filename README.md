@@ -6,12 +6,11 @@
 👀 I’m interested in **Webhacking** and **Pwnalbe**   
 🌱 I’m currently learning **python**,**php**,**MySQL**
 
-[![Scb3022's GitHub stats](https://github-readme-stats.vercel.app/api?username=scb3022&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![scb3022's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=scb3022&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Scb3022's GitHub stats](https://github-readme-stats.vercel.app/api?username=scb3022&show_icons=true&theme=radical)]
+[![scb3022's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=scb3022&theme=radical&layout=compact)]
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scb3022&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scb3022&layout=compact&theme=radical)]
 
 ***
 
