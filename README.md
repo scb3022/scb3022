@@ -4,7 +4,7 @@
 
 👋 Hi, I’m **scb3022**   
 👀 I’m interested in **Webhacking** and **Pwnalbe**   
-🌱 I’m currently learning **python**,**php**,**MySQL**
+🌱 I’m currently learning **python**,**javascript**,**MySQL**
 
 ***
 
