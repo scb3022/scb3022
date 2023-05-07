@@ -16,6 +16,6 @@
 ***
 
 📫 Contacts 
-* 📞discord: 아메리카노☕왓슨#6974
+* 📞discord: 찬빈이#4934
 * 📧Email: <sachanbin@gmail.com>
 
