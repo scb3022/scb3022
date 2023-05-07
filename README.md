@@ -3,7 +3,7 @@
 ***
 
 👋 Hi, I’m **scb3022**   
-👀 Who wants to be a novice developer  
+👀 a novice developer  
 🌱 I’m currently learning **python**,**javascript**,**Dart**
 
 ***
