@@ -8,12 +8,7 @@
 
 ***
 
-![Scb3022's GitHub stats](https://github-readme-stats.vercel.app/api?username=scb3022&show_icons=true&theme=radical)
-***
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scb3022&layout=compact&theme=radical)
-
-***
+![Scb3022's GitHub stats](https://github-readme-stats.vercel.app/api?username=scb3022&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scb3022&layout=compact&theme=radical)
 
 📫 Contacts 
 * 📞discord: 찬빈이#4934
