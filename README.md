@@ -5,6 +5,7 @@
 👋 Hi, I’m **scb3022**   
 👀 a novice developer  
 🌱 I’m currently learning **python**,**javascript**,**Dart**
+🎓 I am attending Youngil High School
 
 ***
 
