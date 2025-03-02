@@ -13,6 +13,5 @@
 ***
 
 📫 Contacts 
-* 📞discord: 찬빈이#4934
 * 📧Email: <netmeme2674@gmail.com>
 
